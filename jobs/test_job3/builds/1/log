@@ -1,0 +1,7 @@
+Started by user [8mha:////4F5RtbLx8Svtb3IpdbYaBNsDOjxQOFUDd4cOEDAjNn2kAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL9ysSSjMyixCwA2I9dZMMAAAA=[0myathiraj
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/test_job3
+[test_job3] $ /bin/sh -xe /tmp/jenkins12273386826725212665.sh
++ pwd
+/var/lib/jenkins/workspace/test_job3
+Finished: SUCCESS
