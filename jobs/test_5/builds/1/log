@@ -1,0 +1,7 @@
+Started by user [8mha:////4F5RtbLx8Svtb3IpdbYaBNsDOjxQOFUDd4cOEDAjNn2kAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL9ysSSjMyixCwA2I9dZMMAAAA=[0myathiraj
+Running as SYSTEM
+Building remotely on [8mha:////4OD0pYyaZqoUcJkXPl8FjY52Y8zUb/ITCQ4s5+NeoNirAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/aTSzJwUAJvkr3/EAAAA[0mbuild in workspace /home/build/workspace/test_5
+[test_5] $ /bin/sh -xe /tmp/jenkins16878493974185922289.sh
++ pwd
+/home/build/workspace/test_5
+Finished: SUCCESS
