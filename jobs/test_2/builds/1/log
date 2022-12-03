@@ -1,0 +1,10 @@
+Started by user [8mha:////4F5RtbLx8Svtb3IpdbYaBNsDOjxQOFUDd4cOEDAjNn2kAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgY+/dLi1CL9ysSSjMyixCwA2I9dZMMAAAA=[0myathiraj
+Running as SYSTEM
+Building remotely on [8mha:////4CxfXCX6fd+DxCkLpm7HZYJTeJc0iDVCPXOCr2DxubZhAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYB/eT83ILSktQi/ZTUgpz8SgAekV+axQAAAA==[0mdeploy in workspace /home/deploy/workspace/test_2
+[test_2] $ /bin/sh -xe /tmp/jenkins11050024642548045494.sh
++ pwd
+/home/deploy/workspace/test_2
++ whoami
+deploy
++ ls
+Finished: SUCCESS
